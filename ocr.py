@@ -1,9 +1,9 @@
 #coding:utf-8
 from aip import AipOcr
 
-APP_ID = '10957625'
-API_KEY = 'lZSZqKZKTnpXdaa1Wo162Iqy'
-SECRET_KEY = 'Az90xhWGDznNbGh39QumXmDnT8GEeqtK'
+APP_ID = 'xxxxxxx'
+API_KEY = 'xxxxxxxxxxx'
+SECRET_KEY = 'xxxxxxxxxxxxxxx'
 
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 

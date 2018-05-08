@@ -1,9 +1,9 @@
 #coding:utf-8
 import re
 from aip import AipSpeech
-APP_ID = '11014965'
-API_KEY = 'IMXxKKtGXf6AaprRwPBkucFE'
-SECRET_KEY = 'DD4YPTHx0MH0BGmSo2ECBeEu08IsiykO'
+APP_ID = 'xxxxxxxxxx'
+API_KEY = 'xxxxxxxxxxxxxxxxx'
+SECRET_KEY = 'xxxxxxxxxxxxxxxxxxx'
 
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
